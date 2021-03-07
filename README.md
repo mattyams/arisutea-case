@@ -1,15 +1,15 @@
-# Arisu Keyboard Case
+# Acrylic Case for Arisutea
+アリステア Acrylic Case design formatted ready for Ponoko with the kerf of the switch cutout set to 0.15mm. Case files are updated to reflect changes to the full backspace on switch 59 and can be found in the hardware folder under arisutea-case.  The case just came in this week (3/6/2021) and it works very well with the changes I made to the full backspace and addition of the stablizer on the prototypes designed by CorruptedJef and robotictomato. These files are a fork from FateNozomi's Arisu case which can be found [HERE](https://github.com/FateNozomi/arisu-case)
 
-アリス Arylic Case design formatted ready for Ponoko with the kerf of the switch cutout set to 0.15mm.  
- Disclaimer: Use these files at your own risk.  
+## Disclaimer: Use these files at your own risk. 
 
-![アリス high profile](https://i.imgur.com/wsqCuEu.jpg)
-![アリス low profile](https://i.imgur.com/NpzBvtd.jpg)  
+![Ponoko-case-1](https://raw.githubusercontent.com/mattyams/arisutea-pcb/master/graphics/20210306_195202.jpg)
+![Ponoko-case-2](https://raw.githubusercontent.com/mattyams/arisutea-pcb/master/graphics/20210306_195211.jpg)
 
 ## Case Pieces
 
-- Low Profile Case (arisu_lopro_case_P2_ponoko.eps)
-- High Profile Layer (Optional) (arisu_hipro_layer_P2_ponoko.eps)
+- Low Profile Case (arisutea_lopro_case_P2_ponoko_backspace_comp.eps)
+- High Profile Layer (Optional) (arisutea_hipro_layer_P2_ponoko.eps)
 
 ## Fabrication
 
@@ -38,3 +38,6 @@ The case will sit at an angle with the center portion protruding out so test the
 
 ![high profile side](https://i.imgur.com/knt518E.jpg)  
 ![low profile side](https://i.redd.it/4z154mz8dbl21.jpg)
+
+![Ponoko-case-3](https://raw.githubusercontent.com/mattyams/arisutea-pcb/master/graphics/20210306_192729.jpg)
+![Ponoko-case-4](https://raw.githubusercontent.com/mattyams/arisutea-pcb/master/graphics/20210306_195154.jpg)
