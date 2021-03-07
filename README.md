@@ -1,5 +1,5 @@
 # Acrylic Case for Arisutea
-アリステア Acrylic Case design formatted ready for Ponoko with the kerf of the switch cutout set to 0.15mm. Case files are updated to reflect changes to the full backspace on switch 59 and can be found in the hardware folder under arisutea-case.  The case just came in this week (3/6/2021) and it works very well with the changes I made to the full backspace and addition of the stablizer on the prototypes designed by CorruptedJef and robotictomato. These files are a fork from FateNozomi's Arisu case which can be found [HERE](https://github.com/FateNozomi/arisu-case)
+アリステア Acrylic Case design formatted ready for Ponoko with the kerf of the switch cutout set to 0.15mm. Case files are updated to reflect changes to the full backspace on switch 59 and can be found in the hardware folder under arisutea-case.  The case just came in this week (3/6/2021) and it works very well with the changes I made to the full backspace and addition of the stablizer on the prototypes designed by CorruptedJef and robotictomato. 
 
 ## Disclaimer: Use these files at your own risk. 
 
